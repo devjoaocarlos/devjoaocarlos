@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi, I'm João Carlos! 👋
 
-<!--
-**devjoaocarlos/devjoaocarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" />
 
-Here are some ideas to get you started:
+<div>
+<!--Github Stats-->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="" src="https://github-readme-stats.vercel.app/api?username=devjoaocarlos&theme=dracula&hide=issues&show_icons=true&rank_icon=github&show="/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!--Languages-->
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaocarlos&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+## Languages and Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,vscode,git,github,bash" alt="JS, HTML, CSS, VSCode, Git, Github, Bash">
+</a>
+
+## Contact
+
+<div>
+  <!--LinkedIn-->
+  <a href="https://www.linkedin.com/in/devjoaocarlos" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <!--Outlook-->
+  <a href="mailto:devjoaocarlos@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+</div>
