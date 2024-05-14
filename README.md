@@ -1,4 +1,4 @@
-# Hi, I'm João Carlos! 👋
+# Olá, meu nome é João Carlos! 👋
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" />
 
@@ -14,13 +14,13 @@
   </a>
 </div>
 
-## Languages and Tools
+## Idiomas e Ferramentas
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,css,vscode,git,github,bash" alt="JS, HTML, CSS, VSCode, Git, Github, Bash">
 </a>
 
-## Contact
+## Contato
 
 <div>
   <!--LinkedIn-->
